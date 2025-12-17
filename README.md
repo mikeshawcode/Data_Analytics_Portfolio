@@ -35,8 +35,7 @@ Three end-to-end analytics projects demonstrating Python, SQL, time series forec
 
 **Tools:** Python, Pandas, Prophet, Matplotlib, Seaborn
 
-[View Code](#) | [View README](#)
-
+[View Code](https://github.com/mikeshawcode/Data_Analytics_Portfolio/blob/main/Superstore_Dataset.ipynb)
 ---
 
 ## 2. NFL Receiving Analytics
@@ -49,19 +48,13 @@ Three end-to-end analytics projects demonstrating Python, SQL, time series forec
 - Compared against 5 other teams (SEA, IND, DEN, PHI, LAR)
 
 **Results:**
-- **Target concentration:** Top 3 receivers capture [X]% of targets
-- **Efficiency leader:** [Player] converts [X]% catches to first downs
-- **Saturday effect:** Highest reception day across league
-
-**Recommendations:**
-- Feature high first-down converters on 3rd downs
-- Diversify targets to prevent defensive keying
-- Benchmark efficiency metrics for contract negotiations
+- **Patriots Target concentration:** Stefon Diggs has the highest amount of targets on the Patriots
+- **Patriots Efficiency leader:** Kayson Bouttee converts ~80% catches to first downs
+- **Patriots Ball Distribution:** Patriots have the most amount of distribution of targets of the top teams in the league
 
 **Tools:** Python, BeautifulSoup, Pandas, Seaborn
 
-[View Code](#) | [View README](#)
-
+[View Code](https://github.com/mikeshawcode/Data_Analytics_Portfolio/blob/main/PatriotsProject.ipynb)
 ---
 
 ## 3. Fitbit Activity Analysis
@@ -69,24 +62,21 @@ Three end-to-end analytics projects demonstrating Python, SQL, time series forec
 **Problem:** What's the relationship between daily steps and calories burned?
 
 **Approach:**
-- Analyzed Fitbit activity data across 30+ users
-- Regression analysis: steps (independent) vs calories (dependent)
+- Analyzed Fitbit activity data across 457+ users
+- Analysis: steps (independent) vs calories (dependent)
 - Visualized correlation with confidence intervals
 
 **Results:**
 - **Strong positive correlation:** More steps = higher calorie burn (linear relationship)
-- **Individual variation:** Metabolic differences create scatter around trend
 - **Predictive value:** Step count reliably estimates daily calorie expenditure
 
 **Applications:**
 - Personalized fitness goal setting (calculate steps needed for calorie targets)
 - Anomaly detection (unusual calorie-to-step ratios flag device/health issues)
-- Corporate wellness programs (evidence-based step challenges)
 
 **Tools:** Python, Pandas, Seaborn, Regression Analysis
 
-[View Code](#) | [View README](#)
-
+[View Code](https://github.com/mikeshawcode/Data_Analytics_Portfolio/blob/main/FitBit_Data_Analysis.ipynb)
 ---
 
 ## 🛠️ Technical Skills
