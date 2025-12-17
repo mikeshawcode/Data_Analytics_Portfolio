@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 
-**[Your Name]** | Data Analyst @ ServiceNow  
-[LinkedIn] | [GitHub] | [Email]
+**Mike Shaw** | Data Analyst @ ServiceNow  
+[(https://www.linkedin.com/in/michael-shaw-95111a254/)] | [michaelwshaw2@gmail.com]
 
 ---
 
