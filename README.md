@@ -87,9 +87,9 @@ Three end-to-end analytics projects demonstrating Python, SQL, time series forec
 - Statistical Analysis (regression, hypothesis testing, time series)
 
 **Visualization & BI:**
-- Power BI (DAX, data modeling, dashboard design)
 - Tableau
 - Data storytelling
+- Power BI (practicing and learning currently)
 
 **Specialized:**
 - Time Series Forecasting (Prophet, ARIMA)
