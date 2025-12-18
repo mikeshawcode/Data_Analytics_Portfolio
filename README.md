@@ -105,10 +105,10 @@ Three end-to-end analytics projects demonstrating Python, SQL, time series forec
 
 ## What I Bring to Analytics Teams
 
-✅ **Business-First Thinking:** Start with the problem, not the data  
-✅ **End-to-End Execution:** From data collection → analysis → actionable recommendations  
-✅ **Clear Communication:** Technical insights translated for non-technical stakeholders  
-✅ **Self-Sufficient:** Web scraping, data cleaning, modeling without hand-holding  
-✅ **Impact-Oriented:** Every analysis answers "so what?" and "now what?"
+ **Business-First Thinking:** Start with the problem, not the data  
+ **End-to-End Execution:** From data collection → analysis → actionable recommendations  
+ **Clear Communication:** Technical insights translated for non-technical stakeholders  
+ **Self-Sufficient:** Web scraping, data cleaning, modeling without hand-holding  
+ **Impact-Oriented:** Every analysis answers "so what?" and "now what?"
 
 ---
