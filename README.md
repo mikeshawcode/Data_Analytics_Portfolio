@@ -5,7 +5,7 @@ https://www.linkedin.com/in/michael-shaw-95111a254/ | michaelwshaw2@gmail.com
 
 ---
 
-## 📊 Portfolio Overview
+## Portfolio Overview
 
 Three end-to-end analytics projects demonstrating Python, SQL, time series forecasting, business intelligence, and data storytelling skills.
 
@@ -103,7 +103,7 @@ Three end-to-end analytics projects demonstrating Python, SQL, time series forec
 
 ---
 
-## 💼 What I Bring to Analytics Teams
+## What I Bring to Analytics Teams
 
 ✅ **Business-First Thinking:** Start with the problem, not the data  
 ✅ **End-to-End Execution:** From data collection → analysis → actionable recommendations  
