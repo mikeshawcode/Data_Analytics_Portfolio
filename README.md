@@ -79,7 +79,7 @@ Three end-to-end analytics projects demonstrating Python, time series forecastin
 [View Code](https://github.com/mikeshawcode/Data_Analytics_Portfolio/blob/main/FitBit_Data_Analysis.ipynb)
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Programming & Analysis:**
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
