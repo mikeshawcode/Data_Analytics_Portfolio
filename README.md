@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-**Mike Shaw** | Data Analyst @ ServiceNow  
+**Mike Shaw** 
 https://www.linkedin.com/in/michael-shaw-95111a254/ | michaelwshaw2@gmail.com
 
 ---
@@ -95,13 +95,6 @@ Three end-to-end analytics projects demonstrating Python, time series forecastin
 - Time Series Forecasting (Prophet, ARIMA)
 - Web Scraping (BeautifulSoup, Requests)
 - Machine Learning (scikit-learn basics)
-
-**Tools:**
-- Google Colab, Jupyter Notebooks
-- Git/GitHub
-- Google Drive integration
-
----
 
 ## What I Bring to Analytics Teams
 
